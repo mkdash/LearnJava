@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+#Java
+*.class
+
+build-tools/
+
+*.log*
+*.dump
+*.ruleset
+*.checkstyle
+*.pmd
+
+*/bin
